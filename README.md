@@ -1,1 +1,3 @@
-# Data-Analysis-with-Python
+# Data Analysis with Python
+
+Some projects about data analysis 
